@@ -2,3 +2,4 @@ Entrenamiento 01: Introducción a la programacion competitiva.
 
 Problemset: https://a2oj.com/contest?ID=38456 
 Sesión en linea: https://www.youtube.com/watch?v=w_uwPBEkFZE
+Presentación: https://drive.google.com/open?id=12aRRNyKvCIQFCWFTKx0i35glYcXgRDzZsbDXja_3st0
